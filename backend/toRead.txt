@@ -1,0 +1,9 @@
+Launch Programs:
+
+cd "C:\Users\maxim\Desktop\my-CA-DashBoard\frontend\tailwindcss-angular-app"
+ng serve
+
+
+
+cd C:\Users\maxim\Desktop\my-CA-DashBoard\backend
+python app.py
